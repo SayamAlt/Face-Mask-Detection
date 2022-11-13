@@ -28,7 +28,7 @@ This dataset is used for Face Mask Detection Classification with images. The dat
   <li>Imutils</li>
 </ul>
 
-## Acknowledgments
+## Acknowledgements
 
 All the images with the face mask (~6K) are scrapped from google search and all the images without the face mask are preprocessed from the CelebFace dataset created by Jessica Li. Thank you so much Jessica for providing a wonderful dataset to the community.
 
