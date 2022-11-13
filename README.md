@@ -22,6 +22,10 @@ This dataset is used for Face Mask Detection Classification with images. The dat
   <li>Numpy</li>
   <li>Pandas</li>
   <li>Matplotlib</li>
+  <li>Seaborn</li>
+  <li>OpenCV</li>
+  <li>Pillow(PIL)</li>
+  <li>Imutils</li>
 </ul>
 
 ## Acknowledgments
