@@ -2,7 +2,7 @@
 
 Successfully trained a deep learning model using convolutional neural networks which can predict to a great level of accuracy whether a given person is wearing a mask or not.
 
-![Face Mask Detection](https://repository-images.githubusercontent.com/257567981/d8ce0480-9ac0-11ea-8062-809a1b8bfab6)
+![Face Mask Detection](https://929687.smushcdn.com/2633864/wp-content/uploads/2020/04/face_mask_detection_result01.jpg?lossy=1&strip=1&webp=1)
 ![Face Mask Detection](https://www.researchdive.com/blogImages/NfBEa3zk4o.jpeg)
 
 ## Dataset Used
